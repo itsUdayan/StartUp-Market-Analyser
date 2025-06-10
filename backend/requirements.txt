@@ -1,0 +1,7 @@
+requests
+textblob
+vaderSentiment
+python-dotenv
+nltk
+sumy
+newsapi-python
